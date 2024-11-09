@@ -1,66 +1,34 @@
 {   
     "bot1": {
-        "source": "repo_link",
+        "source": "https://github.com/MysteryDemon/BotClusters",
         "branch": "master",
         "env": {
-            "TOKEN": ""
+            "TOKEN": "7182689399:AAHtHhYhp7j0IYToKwgrCX8KJmY7IFpHlTM"
         },
-        "run": "run.sh"
+        "run": "strat.sh"
     },
     "bot2": {
-        "source": "repo_link",
-        "branch": "master",
+        "source": "https://github.com/vishnuu123pl/biisal-filter-bot",
+        "branch": "main",
         "env": {
-            "TOKEN": ""
+            "TOKEN": "7117702689:AAGD6HDp9GY4E9hsRaGZulPlQHGrOF2OU80"
         },
-        "run": "run.sh"
+        "run": "bot.py"
     },
     "bot3": {
-        "source": "repo_link",
-        "branch": "master",
+        "source": "https://github.com/vishnuu123pl/VJ-PRE",
+        "branch": "Tech_VJ",
         "env": {
-            "TOKEN": ""
+            "TOKEN": "6140039186:AAENPg840-YyxhHXRn7dqT-DILRwBpyIams"
         },
-        "run": "run.sh"
+        "run": "bot.py"
     },
     "bot4": {
-        "source": "repo_link",
-        "branch": "master",
+        "source": "https://github.com/vishnuu123pl/Pushpammm",
+        "branch": "web",
         "env": {
-            "TOKEN": ""
+            "TOKEN": "6621594376:AAGCwfRJKYFVyyACBA5PFxDpPzzye95MmwU"
         },
-        "run": "run.sh"
-    },
-    "bot5": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot6": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot7": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot8": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
+        "run": "bot.py"
     }
 }
