@@ -30,5 +30,13 @@
             "TOKEN": "6621594376:AAGCwfRJKYFVyyACBA5PFxDpPzzye95MmwU"
         },
         "run": "bot.py"
+    },
+    "bot4": {
+        "source": "https://github.com/vishnuu123pl/Savenow",
+        "branch": "v3",
+        "env": {
+            "TOKEN": "7322775221:AAE-xWRpWzMt10jQcA_Eg3vXNAql_5i4f4I"
+        },
+        "run": "app.py"
     }
 }
