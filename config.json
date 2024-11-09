@@ -31,7 +31,7 @@
         },
         "run": "bot.py"
     },
-    "bot4": {
+    "bot5": {
         "source": "https://github.com/vishnuu123pl/Savenow",
         "branch": "v3",
         "env": {
