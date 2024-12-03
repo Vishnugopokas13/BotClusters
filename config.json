@@ -3,7 +3,7 @@
         "source": "https://github.com/vishnuu123pl/Auto-Filter-Bot-2024",
         "branch": "main",
         "env": {
-            "BOT_TOKEN": "6375200576:AAH4Cpak8ObWY8aZMW3XLMZmLaY5ORMFMzQ",
+            "BOT_TOKEN": "7117702689:AAHXm8Nunfe0C1UNeAmuKXlDbBQjR_cNPpY",
             "SUPPORT_GROUP": "-1001968355911",
             "DATABASE_URI": "mongodb+srv://V:V@cluster0.9bcf5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
             "DATABASE_URI2": "mongodb+srv://V:V@cluster0.o8mhgxx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
