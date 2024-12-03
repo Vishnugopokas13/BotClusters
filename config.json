@@ -1,42 +1,19 @@
 {   
     "bot1": {
-        "source": "https://github.com/MysteryDemon/BotClusters",
-        "branch": "master",
-        "env": {
-            "TOKEN": "7182689399:AAHtHhYhp7j0IYToKwgrCX8KJmY7IFpHlTM"
-        },
-        "run": "strat.sh"
-    },
-    "bot2": {
-        "source": "https://github.com/vishnuu123pl/biisal-filter-bot",
+        "source": "https://github.com/vishnuu123pl/Auto-Filter-Bot-2024",
         "branch": "main",
         "env": {
-            "TOKEN": "7117702689:AAGD6HDp9GY4E9hsRaGZulPlQHGrOF2OU80"
+            "BOT_TOKEN": "6375200576:AAH4Cpak8ObWY8aZMW3XLMZmLaY5ORMFMzQ",
+            "SUPPORT_GROUP": "-1001968355911",
+            "DATABASE_URI": "mongodb+srv://V:V@cluster0.9bcf5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+            "DATABASE_URI2": "mongodb+srv://V:V@cluster0.o8mhgxx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+            "DATABASE_NAME": "hpm",
+            "COLLECTION_NAME": "serial",
+            "SHORTENER_API": "6e82c1fefaf777648718b36a254caec8ec07514e",
+            "SHORTENER_API2": "6e82c1fefaf777648718b36a254caec8ec07514e",
+            "SHORTENER_API3": "6e82c1fefaf777648718b36a254caec8ec07514e",
+            "AUTH_CHANNEL": "-1002404384790"
         },
-        "run": "bot.py"
-    },
-    "bot3": {
-        "source": "https://github.com/vishnuu123pl/VJ-PRE",
-        "branch": "Tech_VJ",
-        "env": {
-            "TOKEN": "6140039186:AAENPg840-YyxhHXRn7dqT-DILRwBpyIams"
-        },
-        "run": "bot.py"
-    },
-    "bot4": {
-        "source": "https://github.com/vishnuu123pl/Pushpammm",
-        "branch": "web",
-        "env": {
-            "TOKEN": "6621594376:AAGCwfRJKYFVyyACBA5PFxDpPzzye95MmwU"
-        },
-        "run": "bot.py"
-    },
-    "bot5": {
-        "source": "https://github.com/vishnuu123pl/Savenow",
-        "branch": "v3",
-        "env": {
-            "TOKEN": "7322775221:AAE-xWRpWzMt10jQcA_Eg3vXNAql_5i4f4I"
-        },
-        "run": "app.py"
+        "run": "python3 bot.by"
     }
 }
